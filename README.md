@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Rishi, a 11th class student from India
+- 👀 I’m interested in web development, Arduino and Python
+- 🌱 Currently converting my ideas into real projects
+- 📫 How to reach me: anotherishi@gmail.com 👀but don't spam please
